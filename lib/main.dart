@@ -3,7 +3,7 @@ import 'package:file_picker/file_picker.dart';
 import 'package:ffmpeg_kit_flutter/ffmpeg_kit.dart';
 import 'package:ffmpeg_kit_flutter/ffprobe_kit.dart';
 import 'package:ffmpeg_kit_flutter/return_code.dart';
-import 'package0permission_handler/permission_handler.dart';
+import 'package:permission_handler/permission_handler.dart';
 
 void main() {
   runApp(const FFmpegApp());
